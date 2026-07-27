@@ -1,6 +1,6 @@
 # 📊 Matplotlib - Python Data Visualization Library
  
-<p align="center">  
+<p align="center">   
 <img src="https://matplotlib.org/stable/_static/logo2.svg" width="180">
 </p>
 
